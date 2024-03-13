@@ -1,0 +1,1 @@
+link dataset: https://universe.roboflow.com/fauzan-ihza-fajar/ktp-j9mig
